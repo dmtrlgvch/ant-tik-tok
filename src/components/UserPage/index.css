@@ -1,0 +1,39 @@
+.user-info_links {
+  display: flex;
+  flex-direction: column;
+}
+.username {
+  font-size: 28px;
+  font-weight: 800;
+}
+.nickname {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.user-count {
+  display: flex;
+}
+.user-count_item{
+  margin-right: 10px;
+}
+.user-count_item > span{
+  font-size: 18px;
+}
+.user-count_following {
+  margin-right: 7px;
+  font-size: 18px;
+}
+.user-count_followers {
+  margin-right: 7px;
+  font-size: 18px;
+}
+.user-count_likes {
+  margin-right: 7px;
+  font-size: 18px;
+}
+.user-description {
+  font-size: 16px;
+}
+.user-page-post > .ant-card-body{
+  padding: 0;
+}

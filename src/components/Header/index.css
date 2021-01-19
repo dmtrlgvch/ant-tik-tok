@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  border-bottom: 2px solid #40a9ff;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: 800;
+  color: #40a9ff;
+}
+.upload-btn {
+  margin-right: 20px;
+}
+.btn_log-in {
+  margin-right: 15px;
+}
+.btn_sign-in {
+  margin-right: 15px;
+}

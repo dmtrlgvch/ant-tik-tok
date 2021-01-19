@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+.container{
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.feed {
+  padding-top: 100px;
+}
